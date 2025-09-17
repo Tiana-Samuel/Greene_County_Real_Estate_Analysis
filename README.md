@@ -48,7 +48,7 @@ One of the major gaps in the listings data was that many properties were missing
 • Results were merged back into the master file using XLOOKUP in Excel.
 The final enriched dataset was stored as Geocoding_File_Filled.xlsx, ensuring that most listing if not all, now included complete geographic and property details. This preparation process provided a foundation for both the Python-based analysis and the QGIS-based mapping that followed.
  
-## 3. Pricing Trends s Market Analysis
+## 3. Pricing Trends and Market Analysis
 Analysis of the Zillow Home Value Index (ZHVI) reveals powerful and consistent growth across all of Greene County, with each ZIP code more than doubling in value since 2015.
 ### Key Findings:
 ### Explosive Long-Term Growth:
@@ -70,14 +70,14 @@ The data segments the three ZIP codes into distinct market profiles:
 ➢ Profile: A unique market with high costs per square foot but moderate overall prices, suggesting newer or renovated homes.
 ➢ Investment Case: Attractive for buyers wanting modern amenities at a more accessible total price than Greensboro. A balanced, strategic investment.
  
-## 5. Anomalies s Undervalued Areas
+## 5. Anomalies and Undervalued Areas
 A statistical analysis was performed to identify listings priced significantly outside the normal range for their area (e.g., an undervalued home in a premium neighbourhood). The results indicate a mature and efficient market. No significant statistical anomalies were found in the current listing data. This means sellers are
 pricing their properties appropriately based on current conditions.
 
 ### What this means for investors: 
 "Deals" based purely on a seller mispricing a property are rare. The best opportunities in Greene County come from long-term appreciation in the higher-growth segments, not from finding a single hidden gem.
  
-## 6. Maps s Visual Breakdown
+## 6. Maps and Visual Breakdown
 To provide a spatial perspective, the analysis was visualized in a map using QGIS.
 Map Description:
 The map provides a consolidated view of Greene County's real estate dynamics. The underlying ZIP code areas are coloured by their total percentage growth since 2015, revealing 30669 (Union Point) as the
