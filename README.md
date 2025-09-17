@@ -51,31 +51,31 @@ The final enriched dataset was stored as Geocoding_File_Filled.xlsx, ensuring th
 ## 3. Pricing Trends s Market Analysis
 Analysis of the Zillow Home Value Index (ZHVI) reveals powerful and consistent growth across all of Greene County, with each ZIP code more than doubling in value since 2015.
 ### Key Findings:
-• Explosive Long-Term Growth:
-
+### Explosive Long-Term Growth:
 Union Point (30669) is the undeniable growth leader, with a total increase of 129%. White Plains (30678) follows with a 109% increase, and Greensboro (30642) shows a strong 97% increase from a higher starting point.
-• A Stable and Predictable Market:
+### A Stable and Predictable Market:
 Statistical analysis graded the price growth in all three areas as "Highly predictable." This means the market has seen steady, upward trends with low volatility, making it a less risky environment for investors.
-• Current Market Snapshot:
+### Current Market Snapshot:
 Analysis of active listings shows the current price landscape, with average listing prices highest in Greensboro ($468k) and most affordable in Union Point ($132k).
  
 ## 4. Segmentation (By ZIP Codes)
 The data segments the three ZIP codes into distinct market profiles:
-• 30642 (Greensboro): The Premium Market
+### 30642 (Greensboro): The Premium Market
 ➢ The county's most active and expensive market. Strong value driven by premium lakefront properties.
 ➢ Investment Case: Best for investors seeking stability and proven demand. Higher entry cost, but lower risk.
-• 30669 (Union Point): The Growth & Value Market
+### 30669 (Union Point): The Growth & Value Market
 ➢ It rules when it comes to percentage growth. Offers the most affordable entry point.
 ➢ Investment Case: Top choice for investors seeking high potential returns and affordability. Likely to benefit from continued demand spillover from Greensboro.
-• 30678 (White Plains): The Niche Market
+### 30678 (White Plains): The Niche Market
 ➢ Profile: A unique market with high costs per square foot but moderate overall prices, suggesting newer or renovated homes.
 ➢ Investment Case: Attractive for buyers wanting modern amenities at a more accessible total price than Greensboro. A balanced, strategic investment.
  
 ## 5. Anomalies s Undervalued Areas
 A statistical analysis was performed to identify listings priced significantly outside the normal range for their area (e.g., an undervalued home in a premium neighbourhood). The results indicate a mature and efficient market. No significant statistical anomalies were found in the current listing data. This means sellers are
 pricing their properties appropriately based on current conditions.
-
-What this means for investors: "Deals" based purely on a seller mispricing a property are rare. The best opportunities in Greene County come from long-term appreciation in the higher-growth segments, not from finding a single hidden gem.
+
+### What this means for investors: 
+"Deals" based purely on a seller mispricing a property are rare. The best opportunities in Greene County come from long-term appreciation in the higher-growth segments, not from finding a single hidden gem.
  
 ## 6. Maps s Visual Breakdown
 To provide a spatial perspective, the analysis was visualized in a map using QGIS.
@@ -86,9 +86,11 @@ visualization clearly shows that high growth does not always correlate with the 
  
 ## 7. Investment Recommendations
 Based on the full analysis, the following recommendations are made:
-• For the Stability-Seeking Investor: 30642 (Greensboro)
+### For the Stability-Seeking Investor: 30642 (Greensboro)
+
 o Best for investors seeking a lower-risk investment in a proven market with high demand, despite the higher buy-in price.
-• For the Growth-Oriented Investor: 30669 (Union Point)
+### For the Growth-Oriented Investor: 30669 (Union Point)
+
 o The top recommendation for investors seeking the highest potential returns. Its incredible growth trajectory and low entry point offer a compelling value proposition.
-• For the Strategic Niche Investor: 30678 (White Plains)
+### For the Strategic Niche Investor: 30678 (White Plains)
 o Attractive for investors or homebuyers who want more modern amenities or newer construction at a more accessible total price point than Greensboro.
