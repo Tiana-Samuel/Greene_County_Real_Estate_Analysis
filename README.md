@@ -1,8 +1,8 @@
 # Real Estate Market Analysis Report
-## Study Area: Greene County, Georgia (Zillow Listings) 
-## Analyst: Christiana Samuel
+### Study Area: Greene County, Georgia (Zillow Listings) 
+### Analyst: Christiana Samuel
 
-## 1. Executive Summary
+## Executive Summary
 This report provides a detailed look at the real estate market in Greene County, Georgia, using Zillow data to track long-term price movements and analyse current property listings. The goal was to understand price
 evolution, identify high-demand areas, and find potential investment opportunities. The analysis combined two main data sources: the Zillow Home Value Index (ZHVI) for long-term trends and scraped Zillow
 listings for a detailed, current view of the market.
