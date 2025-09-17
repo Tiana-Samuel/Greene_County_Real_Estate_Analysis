@@ -2,7 +2,7 @@
 ### Study Area: Greene County, Georgia (Zillow Listings) 
 ### Analyst: Christiana Samuel
 
-## Executive Summary
+## 1. Executive Summary
 This report provides a detailed look at the real estate market in Greene County, Georgia, using Zillow data to track long-term price movements and analyse current property listings. The goal was to understand price
 evolution, identify high-demand areas, and find potential investment opportunities. The analysis combined two main data sources: the Zillow Home Value Index (ZHVI) for long-term trends and scraped Zillow
 listings for a detailed, current view of the market.
@@ -13,7 +13,7 @@ A key finding for investors is the market's stability. All three ZIP codes exhib
 concentrated.
 This report concludes with tailored investment recommendations, suggesting the best opportunities based on an investor's goals and risk tolerance.
 
-## Data Sources
+## 2. Data Sources
 Four main datasets formed the backbone of this study:
 ### 1. Zillow Home Value Index (ZHVI):
 o Source: Zillow Research.
